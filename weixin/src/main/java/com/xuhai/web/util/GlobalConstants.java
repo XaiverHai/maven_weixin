@@ -9,7 +9,7 @@ public class GlobalConstants {
 	 * 
 	 * @Description: TODO
 	 * @param key
-	 * @param @return   
+	 * @param @return
 	 * @author 徐海
 	 * @date 2017-11-14 9.46
 	 */
