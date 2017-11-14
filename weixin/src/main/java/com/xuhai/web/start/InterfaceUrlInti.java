@@ -25,7 +25,7 @@ public class InterfaceUrlInti {
             }
 
             props = new Properties();
-            in = cl.getResourceAsStream("wechat.properties");
+            in = cl.getResourceAsStream("weixin.properties");
             props.load(in);
             for(Object key : props.keySet()){
                 GlobalConstants.interfaceUrlProperties.put(key, props.get(key));
